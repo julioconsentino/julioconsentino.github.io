@@ -654,6 +654,8 @@ position: relative;
 
 
 .button2 a {
+background-color: rgb(200, 172, 60);
+color: rgb(0, 0, 0);
 text-decoration: none;
 }
 
@@ -4078,7 +4080,7 @@ padding-top: 122px;
 }
 
 .dobra3C {
-padding-top: 140.5px;
+padding-top: 140px;
 top: -1175px;
 left: 52%;
 font-size: 71%;
@@ -4200,7 +4202,7 @@ padding-top: 122px;
 }
 
 .dobra3C {
-padding-top: 139.5px;
+padding-top: 139px;
 top: -1182px;
 left: 51.7%;
 font-size: 71%;
@@ -4340,7 +4342,7 @@ padding-top: 122px;
 }
 
 .dobra3C {
-padding-top: 145.1px;
+padding-top: 144.5px;
 top: -1189px;
 left: 51.7%;
 font-size: 68%;
@@ -4496,7 +4498,7 @@ padding-top: 122px;
 }
 
 .dobra3C {
-padding-top: 149.9px;
+padding-top: 149.4px;
 top: -1193px;
 left: 51.7%;
 font-size: 64%;
@@ -4647,7 +4649,7 @@ padding-top: 122px;
 }
 
 .dobra3C {
-padding-top: 149px;
+padding-top: 148.5px;
 top: -1193px;
 left: 51.6%;
 font-size: 64%;
@@ -4795,7 +4797,7 @@ padding-top: 122px;
 }
 
 .dobra3C {
-padding-top: 149px;
+padding-top: 148.5px;
 top: -1198.8px;
 left: 51.6%;
 font-size: 61%;
@@ -4944,7 +4946,7 @@ padding-top: 122px;
 }
 
 .dobra3C {
-padding-top: 158px;
+padding-top: 157.5px;
 top: -1215.8px;
 left: 51.6%;
 font-size: 55%;
