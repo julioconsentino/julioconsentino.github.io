@@ -1,0 +1,46 @@
+        body {
+        font-family: Yanone Kaffeesatz; 
+        font-size: 16px;                       
+        background-color: rgb(255,255,255);
+        color: rgb(0,0,0);
+        margin: 0;
+}
+
+.yanone-kaffeesatz- {
+  font-family: "Yanone Kaffeesatz";
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.vina-sans-regular {
+  font-family: "Vina Sans";
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "MansalvaRegular";
+  src: url('Fonts/Mansalva/MansalvaRegular.ttf') format("TrueType"); /* Adjust path */
+}
+
+.mansalva-regular {
+  font-family: MansalvaRegular;    
+  font-size: 121%;
+  align-items: center; 
+}
+
+.mansalva-regular a {
+text-decoration: none;
+color: rgb(0,0,0);
+}
+
+.center {
+justify-items: center;
+}
+
+.centerbutton {
+display: flex;
+justify-content: center;
+}
