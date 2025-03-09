@@ -60,6 +60,6 @@
 function copyLink() {
     var url = "https://julioconsentino.github.io/";
     navigator.clipboard.writeText(url).then(() => {
-        alert("Url copiada. Só abrir o navegador (chrome/safari) e colar.");
+        alert("Url copiada. Abra o chrome ou safari e cole a Url para visitar a página.");
     });
 }

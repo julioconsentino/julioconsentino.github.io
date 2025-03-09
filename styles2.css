@@ -19,7 +19,6 @@
   font-style: normal;
 }
 
-
 @font-face {
   font-family: "MansalvaRegular";
   src: url('Fonts/Mansalva/MansalvaRegular.ttf') format("TrueType"); /* Adjust path */
@@ -38,6 +37,7 @@ color: rgb(0,0,0);
 
 .center {
 justify-items: center;
+margin: 45px;
 }
 
 .centerbutton {
